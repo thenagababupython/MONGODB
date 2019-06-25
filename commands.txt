@@ -40,7 +40,25 @@ DELETE
 ------
 SQL: DELETE from EMPLOYEE WHERE  id = 2;
 MongoDB: db.Teacher.deleteOne({id:2});		 
+
+javascript:--------node js driver---->mongo db
+
+--->third party module --->
+1.package.json---npm init
+2.npm install mongodb --save    ---->drivers install
+
+
+ACT service app:
+=-================================================================
+1.express generator
+2.express js,node js
+3.bootstrap
+4.jquery
+5.mongo
+5.body parser
+6.nodman
+7.font-awesome
+
 		 
 		 
-		 
-		 
+		
