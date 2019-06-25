@@ -59,6 +59,14 @@ ACT service app:
 6.nodman
 7.font-awesome
 
+start 17thn file:
+==============
+1.
+2.npm install
+3.npm install body-parser
+4.npm install mongodb
+5.npm start
+
 		 
 		 
 		
